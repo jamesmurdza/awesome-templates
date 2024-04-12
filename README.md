@@ -62,6 +62,28 @@ GitHub has many public templates which can be used as the base for new projects.
 | [nhost/nextjs-stripe-starter](https://github.com/nhost/nextjs-stripe-starter) | 14 months ago | 44 |
 | [felissi/nextjs-tailwind-template](https://github.com/felissi/nextjs-tailwind-template) | 14 months ago | 0 |
 
+### OpenAI
+| Repository | Last Updated | Stars |
+|------------|--------------|-------|
+| [langchain-ai/langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) | 1 days ago | 876 |
+| [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) | 4 months ago | 1478 |
+| [shricodev/OpenAI-collapsable-Chatbot](https://github.com/shricodev/OpenAI-collapsable-Chatbot) | 7 months ago | 2 |
+| [SpellcraftAI/nextjs-openai](https://github.com/SpellcraftAI/nextjs-openai) | 11 months ago | 235 |
+| [patrickacraig/next-openai-starter](https://github.com/patrickacraig/next-openai-starter) | 12 months ago | 11 |
+| [manjushsh/next-openai](https://github.com/manjushsh/next-openai) | 13 months ago | 47 |
+| [YacineMessaadi/nextjs-openai](https://github.com/YacineMessaadi/nextjs-openai) | 20 months ago | 2 |
+
+### TailwindCSS + OpenAI
+| Repository | Last Updated | Stars |
+|------------|--------------|-------|
+| [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) | 5 days ago | 4762 |
+| [Disruptive-Kiwi/gpt-starter](https://github.com/Disruptive-Kiwi/gpt-starter) | 4 months ago | 9 |
+| [Monte9/nextjs-tailwindcss-chatgpt-clone](https://github.com/Monte9/nextjs-tailwindcss-chatgpt-clone) | 11 months ago | 79 |
+| [benfiratkaya/next-chatgpt](https://github.com/benfiratkaya/next-chatgpt) | 12 months ago | 9 |
+| [jakeprins/nextjs-chatgpt-tutorial](https://github.com/jakeprins/nextjs-chatgpt-tutorial) | 12 months ago | 92 |
+| [richardjalba/NextJS-SaaSAI](https://github.com/richardjalba/NextJS-SaaSAI) | 12 months ago | 0 |
+| [javigong/circuitai-nextjs-typescript-redis-tailwind-nextauth](https://github.com/javigong/circuitai-nextjs-typescript-redis-tailwind-nextauth) | 15 months ago | 19 |
+
 ## ReactJS
 
 | Repository | Last Updated | Stars |
