@@ -106,6 +106,17 @@ GitHub has many public templates which can be used as the base for new projects.
 | [mbeps/next_discussion_platform](https://github.com/mbeps/next_discussion_platform) | 7 months ago | 14 |
 | [sajidrsk/production-ready-nextjs-template](https://github.com/sajidrsk/production-ready-nextjs-template) | 11 months ago | 9 |
 
+### Dashboard
+| Repository | Last Updated | Stars |
+|------------|--------------|-------|
+| [anablock/nextjs-dashboard-template](https://github.com/anablock/nextjs-dashboard-template) | 1 months ago | 0 |
+| [Siumauricio/nextui-dashboard-template](https://github.com/Siumauricio/nextui-dashboard-template) | 1 months ago | 351 |
+| [onkar69483/nextjs-dashboard](https://github.com/onkar69483/nextjs-dashboard) | 1 months ago | 0 |
+| [salvia-kit/next-dashboards](https://github.com/salvia-kit/next-dashboards) | 2 months ago | 117 |
+| [kitloong/nextjs-dashboard](https://github.com/kitloong/nextjs-dashboard) | 3 months ago | 447 |
+| [lllariogonzalez/nextjs-dashboard](https://github.com/lllariogonzalez/nextjs-dashboard) | 5 months ago | 35 |
+| [gokulkrishh/nextjs-dashboard-template](https://github.com/gokulkrishh/nextjs-dashboard-template) | 7 months ago | 1 |
+
 ### Phaser
 | Repository | Last Updated | Stars |
 |------------|--------------|-------|
