@@ -26,6 +26,42 @@ GitHub has many public templates which can be used as the base for new projects.
 | [samrobbins85/nextjs-template](https://github.com/samrobbins85/nextjs-template) | 15 months ago | 0 |
 | [jameschambers/boring-bits-nextjs](https://github.com/jameschambers/boring-bits-nextjs) | 41 months ago | 13 |
 
+### TailwindCSS
+| Repository | Last Updated | Stars |
+|------------|--------------|-------|
+| [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) | 4 days ago | 2633 |
+| [raflymln/nextjs-template](https://github.com/raflymln/nextjs-template) | 1 months ago | 6 |
+| [vercel/nextjs-postgres-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template) | 4 months ago | 783 |
+| [binodnepali/next-with-tailwindcss-example-template](https://github.com/binodnepali/next-with-tailwindcss-example-template) | 9 months ago | 3 |
+| [earvinpiamonte/nextjs-tailwindcss-template](https://github.com/earvinpiamonte/nextjs-tailwindcss-template) | 15 months ago | 11 |
+| [piouson/nextjs-tailwindcss-template](https://github.com/piouson/nextjs-tailwindcss-template) | 17 months ago | 3 |
+| [iuzn/nextjs-tailwindcss](https://github.com/iuzn/nextjs-tailwindcss) | 25 months ago | 0 |
+| [lukefrogger/nextjs-tailwindcss-template](https://github.com/lukefrogger/nextjs-tailwindcss-template) | 25 months ago | 0 |
+
+### Stripe
+| Repository | Last Updated | Stars |
+|------------|--------------|-------|
+| [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) | 1 months ago | 5205 |
+| [saleor/example-nextjs-stripe](https://github.com/saleor/example-nextjs-stripe) | 1 months ago | 3 |
+| [ChetanXpro/LaunchKit](https://github.com/ChetanXpro/LaunchKit) | 5 months ago | 21 |
+| [Natanaelvich/store-stripe-nextjs-example](https://github.com/Natanaelvich/store-stripe-nextjs-example) | 12 months ago | 3 |
+| [nhost/nextjs-stripe-starter](https://github.com/nhost/nextjs-stripe-starter) | 14 months ago | 44 |
+| [stripe-archive/nextjs-typescript-react-stripe-js](https://github.com/stripe-archive/nextjs-typescript-react-stripe-js) | 26 months ago | 324 |
+| [AlterClassIO/ecommerce-nextjs-stripe-checkout](https://github.com/AlterClassIO/ecommerce-nextjs-stripe-checkout) | 28 months ago | 118 |
+| [funnelkake/stripe-payment-modal-nextjs-example](https://github.com/funnelkake/stripe-payment-modal-nextjs-example) | 37 months ago | 3 |
+
+### TailwindCSS + Stripe
+| Repository | Last Updated | Stars |
+|------------|--------------|-------|
+| [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) | 2 days ago | 7039 |
+| [rajput-hemant/nextjs-template](https://github.com/rajput-hemant/nextjs-template) | 4 days ago | 26 |
+| [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) | 1 months ago | 721 |
+| [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) | 1 months ago | 5205 |
+| [saraahso/next-13-shopping-cart](https://github.com/saraahso/next-13-shopping-cart) | 5 months ago | 5 |
+| [nexty5870/nextjs-boiler](https://github.com/nexty5870/nextjs-boiler) | 7 months ago | 0 |
+| [nhost/nextjs-stripe-starter](https://github.com/nhost/nextjs-stripe-starter) | 14 months ago | 44 |
+| [felissi/nextjs-tailwind-template](https://github.com/felissi/nextjs-tailwind-template) | 14 months ago | 0 |
+
 ## ReactJS
 
 | Repository | Last Updated | Stars |
