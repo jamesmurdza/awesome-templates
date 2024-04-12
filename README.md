@@ -52,9 +52,6 @@ GitHub has many public templates which can be used as the base for new projects.
 ## VueJS
 | Repository | Last Updated | Stars |
 |------------|--------------|-------|
-| [github.com/vuejs-templates](https://github.com/github.com/vuejs-templates) | ? | 0 |
-| [vuejs-templates/repositories?language=javascript&type=all](https://github.com/vuejs-templates/repositories?language=javascript&type=all) | ? | 0 |
-| [vuejs-templates/repositories](https://github.com/vuejs-templates/repositories) | ? | 0 |
 | [jonlabelle/vue-project-template](https://github.com/jonlabelle/vue-project-template) | 2 months ago | 0 |
 | [mitevpi/vue-template](https://github.com/mitevpi/vue-template) | 45 months ago | 4 |
 | [vuejs-templates/webpack](https://github.com/vuejs-templates/webpack) | 67 months ago | 9715 |
