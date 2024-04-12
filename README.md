@@ -1,6 +1,6 @@
-# Public Templates
+# List of template repositories
 
-GitHub has many templates which can be used as the base for new projects. This repo automatically collects these templates and sorts them by the most recently updated.
+GitHub has many public templates which can be used as the base for new projects. Right now, there is no way to search for these templates. This repo automatically collects these templates and sorts them by the most recently updated.
 
 ## Table of Contents
 
