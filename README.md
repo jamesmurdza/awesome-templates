@@ -26,6 +26,28 @@ GitHub has many templates which can be used as the base for new projects. This r
 | [assembler-school/reactjs-project-template](https://github.com/assembler-school/reactjs-project-template) | 36 months ago | 0 |
 | [dcbark01/react-app-template](https://github.com/dcbark01/react-app-template) | 54 months ago | 0 |
 
+## VueJS
+| Repository | Last Updated | Stars |
+|------------|--------------|-------|
+| [github.com/vuejs-templates](https://github.com/github.com/vuejs-templates) | ? | 0 |
+| [vuejs-templates/repositories?language=javascript&type=all](https://github.com/vuejs-templates/repositories?language=javascript&type=all) | ? | 0 |
+| [vuejs-templates/repositories](https://github.com/vuejs-templates/repositories) | ? | 0 |
+| [jonlabelle/vue-project-template](https://github.com/jonlabelle/vue-project-template) | 2 months ago | 0 |
+| [mitevpi/vue-template](https://github.com/mitevpi/vue-template) | 45 months ago | 4 |
+| [vuejs-templates/webpack](https://github.com/vuejs-templates/webpack) | 67 months ago | 9715 |
+
+## Flask
+| Repository | Last Updated | Stars |
+|------------|--------------|-------|
+| [platformsh-templates/flask](https://github.com/platformsh-templates/flask) | 10 days ago | 3 |
+| [navapbc/template-application-flask](https://github.com/navapbc/template-application-flask) | 2 months ago | 6 |
+| [openfaas/python-flask-template](https://github.com/openfaas/python-flask-template) | 3 months ago | 82 |
+| [riad-azz/flask-template](https://github.com/riad-azz/flask-template) | 5 months ago | 16 |
+| [petersimeth/basic-flask-template](https://github.com/petersimeth/basic-flask-template) | 14 months ago | 24 |
+| [rochacbruno/flask-project-template](https://github.com/rochacbruno/flask-project-template) | 23 months ago | 164 |
+| [aliabbasjaffri/flask-boilerplate](https://github.com/aliabbasjaffri/flask-boilerplate) | 42 months ago | 1 |
+| [alisezer/flask-template](https://github.com/alisezer/flask-template) | 53 months ago | 64 |
+
 ## Chrome extension
 
 | Repository | Last Updated | Stars |
