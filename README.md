@@ -84,6 +84,36 @@ GitHub has many public templates which can be used as the base for new projects.
 | [richardjalba/NextJS-SaaSAI](https://github.com/richardjalba/NextJS-SaaSAI) | 12 months ago | 0 |
 | [javigong/circuitai-nextjs-typescript-redis-tailwind-nextauth](https://github.com/javigong/circuitai-nextjs-typescript-redis-tailwind-nextauth) | 15 months ago | 19 |
 
+### Marketplace
+| Repository | Last Updated | Stars |
+|------------|--------------|-------|
+| [RicardoGEsteves/next-digital-marketplace](https://github.com/RicardoGEsteves/next-digital-marketplace) | 4 days ago | 18 |
+| [MeshJS/marketplace-next-ts-template](https://github.com/MeshJS/marketplace-next-ts-template) | 7 days ago | 3 |
+| [vercel/commerce](https://github.com/vercel/commerce) | 11 days ago | 10142 |
+| [codeincrypt/opensea-nextjs-template](https://github.com/codeincrypt/opensea-nextjs-template) | 27 days ago | 3 |
+| [whitehorse21/next.js-ecommerce-template](https://github.com/whitehorse21/next.js-ecommerce-template) | 1 months ago | 22 |
+| [devagrawal09/clerk-nextjs-template](https://github.com/devagrawal09/clerk-nextjs-template) | 8 months ago | 4 |
+| [joscacgom/NFT-Marketplace-Template](https://github.com/joscacgom/NFT-Marketplace-Template) | 13 months ago | 2 |
+| [Jerga99/nft-marketplace-template](https://github.com/Jerga99/nft-marketplace-template) | 23 months ago | 23 |
+
+### Discussion Platform
+| Repository | Last Updated | Stars |
+|------------|--------------|-------|
+| [platformsh-templates/nextjs](https://github.com/platformsh-templates/nextjs) | Less than a day ago | 8 |
+| [partykit/partykit-nextjs-chat-template](https://github.com/partykit/partykit-nextjs-chat-template) | 22 days ago | 56 |
+| [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) | 1 months ago | 721 |
+| [PaulBratslavsky/next-js-course-starter-template](https://github.com/PaulBratslavsky/next-js-course-starter-template) | 1 months ago | 1 |
+| [mbeps/next_discussion_platform](https://github.com/mbeps/next_discussion_platform) | 7 months ago | 14 |
+| [sajidrsk/production-ready-nextjs-template](https://github.com/sajidrsk/production-ready-nextjs-template) | 11 months ago | 9 |
+
+### Phaser
+| Repository | Last Updated | Stars |
+|------------|--------------|-------|
+| [thirdweb-example/phaser-platformer](https://github.com/thirdweb-example/phaser-platformer) | Less than a day ago | 3 |
+| [phaserjs/create-game](https://github.com/phaserjs/create-game) | 9 days ago | 13 |
+| [phaserjs/template-nextjs](https://github.com/phaserjs/template-nextjs) | 15 days ago | 20 |
+| [trungdq88/nextjs-phaser](https://github.com/trungdq88/nextjs-phaser) | 25 months ago | 8 |
+
 ## ReactJS
 
 | Repository | Last Updated | Stars |
